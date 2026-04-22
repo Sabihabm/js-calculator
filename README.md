@@ -71,21 +71,8 @@ calculator/
 
 ---
 
-## 📌 Future Improvements
-
-* Keyboard input support
-* Dark mode 🌙
-* Advanced operations ( √, etc.)
-* Better error handling
-
----
-
 ## 🙌 Acknowledgement
 
 This project is built as part of learning **JavaScript fundamentals and UI design**.
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use.
