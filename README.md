@@ -43,8 +43,6 @@ calculator/
 * Button clicks trigger JavaScript functions
 * Values are appended to the display
 * `eval()` is used to calculate expressions
-* `slice()` is used to delete the last character
-
 ---
 
 ## 💡 Key Concepts Used
